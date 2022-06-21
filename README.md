@@ -8,5 +8,4 @@ Then it classifies it into for classes.
 4. High
 
 
-
-![High SS](https://user-images.githubusercontent.com/25412736/174799446-b75b7ec7-378f-4c07-b043-14056080faab.PNG)
+![High SS](https://user-images.githubusercontent.com/25412736/174799977-d67fb4a4-0535-43dd-a6f6-ade748366376.PNG)
