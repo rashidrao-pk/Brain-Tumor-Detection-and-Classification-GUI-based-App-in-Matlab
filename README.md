@@ -21,3 +21,5 @@ The methodology consist on following steps:
 10. Type Prediction
 
 ![High SS](https://user-images.githubusercontent.com/25412736/174799977-d67fb4a4-0535-43dd-a6f6-ade748366376.PNG)
+
+#Brain #Tumor #Detection #Classification #Matlab #GUI #machinelearning #ComputerVision #ImageProcessing #DeepLearning #Feature #Fusion #Extraction #FYP #Project
