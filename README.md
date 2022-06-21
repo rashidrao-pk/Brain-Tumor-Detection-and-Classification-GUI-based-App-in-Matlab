@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-and-Classification
+# Brain-Tumor-Detection-and-Classification-GUI-based-App-in-Matlab
 Brain Tumor Detection and Classification is developed for one of my Client from Malysia.
 This is a GUI-based application which detects the Tumor, calculated its area and perimeter in mm.
 Then it classifies it into for classes.
